@@ -9,6 +9,8 @@ theme: chill
 ---
 ```
 
-Screenshot:
+Screenshots:
 
-TODO
+![image](https://github.com/user-attachments/assets/843727b0-f6c2-4dad-b791-216efdad72c6)
+
+![image](https://github.com/user-attachments/assets/634fde25-9ad3-4be1-9ca1-70bbdf539dc9)
